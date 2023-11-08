@@ -12,5 +12,5 @@ csgo 游戏帮助器
 --- ---
 ### 部分截图
 ![img.png](img.png)
-![img_1.png](img_1.png)
+![img_2.png](img_2.png)
 ![sc.gif](sc.gif)
